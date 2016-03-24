@@ -6,4 +6,4 @@ WORKDIR /code
 VOLUME /code
 RUN npm install -g live-server
 EXPOSE 8080
-CMD["live-server"]
+CMD ["live-server"]
