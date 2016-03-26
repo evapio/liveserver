@@ -1,4 +1,4 @@
-FROM node:latest
+FROM iron/node:dev
 
 MAINTAINER "Evap Engineering" info@evap.io
 
